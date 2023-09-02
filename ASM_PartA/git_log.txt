@@ -1,0 +1,89 @@
+commit c6ed14d59f5846cb39b7628ec01fd756ce0529a5
+Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
+Date:   Thu Aug 31 23:29:41 2023 +1000
+
+    Add files via upload
+
+commit 3aa72cf0ef8acc8fa4ad30f68e7a451724a1afdb
+Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
+Date:   Thu Aug 31 23:29:31 2023 +1000
+
+    Delete Gantt chart.xlsx
+
+commit 787a80b88bd8e1862f56a7e9fdd40bb1bd61aec4
+Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
+Date:   Thu Aug 31 23:28:14 2023 +1000
+
+    Delete Project Plan.docx
+
+commit 07dba90ea52e8cfcc8439618ac6541747653f5c7
+Author: Ze Zeng <zengze@ZeZeng.modem>
+Date:   Thu Aug 31 10:42:35 2023 +1000
+
+    v1 Intro
+
+commit de435fef147e810abdaf2d0bf1ac54b4940ed319
+Author: Ze Zeng <zengze@ZeZeng.modem>
+Date:   Thu Aug 31 09:40:00 2023 +1000
+
+    Add introduction
+
+commit f68601e756b08853ba06def9fdbe3a123f7986a0
+Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
+Date:   Thu Aug 31 08:33:08 2023 +1000
+
+    WBS and Gantt
+
+commit 3e088d2176bdc02427723d6e7f12ac18a1223e0d
+Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
+Date:   Thu Aug 31 08:21:37 2023 +1000
+
+    Delete Project Plan.docx
+
+commit cc42982f68e464cc54ba578ec61e8dd0e384c86c
+Author: Ze Zeng <zengze@ZeZeng.modem>
+Date:   Wed Aug 30 22:25:12 2023 +1000
+
+    Add Use case diagram
+
+commit 0b7d89e761708e827a5bd35c0357c070b59143c4
+Author: Ze Zeng <zengze@ZeZeng.modem>
+Date:   Wed Aug 30 22:23:10 2023 +1000
+
+    Add use case diagram
+
+commit 5009827a700c660cc97db44790c8c4509c84300d
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Sun Aug 27 19:29:24 2023 +1000
+
+    flow chart and UI wireframe
+
+commit cbd10fddcb8757bc62ee695cff6489b3e7be2290
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Sun Aug 27 19:27:45 2023 +1000
+
+    Software design and system components, User interface design finished
+
+commit 4e1ca851a01f1a6dbcc2ec8feb94b26448ad16ad
+Author: Ze Zeng <zengze@ZeZeng.modem>
+Date:   Sat Aug 26 21:05:00 2023 +1000
+
+    Added Software Design Document 1.0,2.0
+
+commit 1bf4ef9be49997bb75a94c4766cdeb95c49bb168
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Tue Aug 22 13:56:02 2023 +1000
+
+    marking guide
+
+commit 6a44e526bd5f09b665b2ea78d0e111f4d75624a5
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Tue Aug 1 10:21:55 2023 +1000
+
+    Assignment Document
+
+commit 4d95ee7ddc411c7c8b26e344bc6bfc3b2f06f055
+Author: WalnutE52 <109060562+WalnutE52@users.noreply.github.com>
+Date:   Tue Aug 1 10:02:12 2023 +1000
+
+    Initial commit
