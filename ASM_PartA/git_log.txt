@@ -1,3 +1,21 @@
+commit 5bd479b7916867b6e64cc328128b5abebd369f62
+Author: sunwoonam <nswhelen@gmail.com>
+Date:   Sat Sep 2 12:27:33 2023 +1000
+
+    Update Gantt chart and Project Plan
+
+commit d37ec0ddb140d8d424367e8fcb118d11f00b9904
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Sat Sep 2 10:50:12 2023 +1000
+
+    update format
+
+commit c419e2c5cfe46f978ccd3a6938fcfaf35d72938e
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Sat Sep 2 10:45:27 2023 +1000
+
+    update git log
+
 commit 454ace59845ecf2a5ec2974f49eb8c7380cab41a
 Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
 Date:   Sat Sep 2 10:42:29 2023 +1000
