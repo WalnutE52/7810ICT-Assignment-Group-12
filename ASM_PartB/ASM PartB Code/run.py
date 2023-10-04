@@ -14,7 +14,7 @@ from MainTemplate import MainScreen
 from VisualisationTemplate import Visualisation
 EVEN_ROW_COLOUR = '#CCE6FF'
 GRID_LINE_COLOUR = '#ccc'
-df = pd.read_csv("CrashVictoria.csv",index_col=0)
+df = pd.read_csv("test.csv",index_col=0)
 class DataTable(wx.grid.GridTableBase):
     def __init__(self, data=None):
         wx.grid.GridTableBase.__init__(self)
