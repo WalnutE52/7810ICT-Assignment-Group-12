@@ -14,7 +14,7 @@ from MainTemplate import MainScreen
 from VisualisationTemplate import Visualisation
 EVEN_ROW_COLOUR = '#CCE6FF'
 GRID_LINE_COLOUR = '#ccc'
-df = pd.read_csv("test.csv",index_col=0)
+df = pd.read_csv("CrashVictoria.csv",index_col=0)
 class DataTable(wx.grid.GridTableBase):
     def __init__(self, data=None):
         wx.grid.GridTableBase.__init__(self)
@@ -161,7 +161,7 @@ class VisualFrame(Visualisation):
         column_names = [self.table.GetColLabelValue(col) for col in range(self.table.GetNumberCols())]
         self.xVariableChoices = column_names
         self.xVariable.Set(self.xVariableChoices)
-        self.yVariableChoices = ['Accident Count']
+        self.yVariableChoices = ['Count']
         self.yVariable.Set(self.yVariableChoices)
         self.chartTypeChoices = ['Bar Chart', 'Column Chart', 'Pie Chart', 'Line Chart']
         self.chartType.Set(self.chartTypeChoices)
@@ -195,8 +195,14 @@ class VisualFrame(Visualisation):
         self.Layout()
 
     def plot_data_line(self):
-        x = self.table.GetColumnValues(self.x)
-        y = self.table.data[self.x].value_counts().tolist()
+        if self.x == 'ACCIDENT_TIME':
+            self.table.data['Hour'] = self.table.data['ACCIDENT_TIME'].str.split('.').str[0].astype(int)
+            x = sorted(self.table.data['Hour'].unique().tolist())
+        else:
+            x = self.table.GetColumnValues(self.x)
+        y = self.calculate_y_values()
+        print(x)
+        print(y)
         figure_score = Figure()
         axes = figure_score.add_axes([0.1, 0.1, 0.8, 0.8])  # [left, bottom, width, height]
 
@@ -226,6 +232,23 @@ class VisualFrame(Visualisation):
         axes.set_title(self.title.GetValue())
 
         return figure_score
+
+    def calculate_y_values(self):
+        if self.x == 'ACCIDENT_TIME':
+            # Extract the hour from the ACCIDENT_TIME and count the number of accidents for each hour
+            self.table.data['Hour'] = self.table.data['ACCIDENT_TIME'].str.split('.').str[0].astype(int)
+            hour_counts = self.table.data['Hour'].value_counts().sort_index().to_dict()
+
+            # Create a list of distinct hours and order them
+            distinct_hours = sorted(self.table.data['Hour'].unique().tolist())
+
+            # Fill in missing hours with zeros
+            y = [hour_counts.get(hour, 0) for hour in distinct_hours]
+
+            return y
+        else:
+            # For other cases, use the original method
+            return self.table.data[self.x].value_counts().tolist()
 
     def back_main(self, event):
         # Assuming self is a wx.Frame
