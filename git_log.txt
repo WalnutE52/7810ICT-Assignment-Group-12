@@ -1,0 +1,221 @@
+commit 814af6b3ddf5424048468265768d8ed3f3ce5ca0
+Author: sunwoonam <nswhelen@gmail.com>
+Date:   Sun Oct 8 16:08:38 2023 +1000
+
+    project plan and executive summary
+
+commit def93404d2341b0b528ae6e39c4a71b1492e8e29
+Author: sunwoonam <nswhelen@gmail.com>
+Date:   Sun Oct 8 16:03:51 2023 +1000
+
+    project plan and executive summary
+
+commit 28261900cbdc360ca0afc7eeb062cac748998095
+Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
+Date:   Sun Oct 8 15:49:35 2023 +1000
+
+    Delete ASM_PartB/WBS_2.pdf
+
+commit a1c897e15dab0f747a7de457e449b53d499f7e33
+Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
+Date:   Sun Oct 8 15:49:21 2023 +1000
+
+    Delete ASM_PartB/Gantt chart_2.xlsx
+
+commit 9571f6cfd33c46ef38739394d21cb91960aaf4d4
+Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
+Date:   Sun Oct 8 15:49:14 2023 +1000
+
+    Delete ASM_PartB/Project Plan_2.docx
+
+commit 3be2703e4d1bd60636ce4e331bb766f11251d8b0
+Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
+Date:   Sun Oct 8 15:47:48 2023 +1000
+
+    Delete ASM_PartB/Executive Summary.docx
+
+commit ae987143da45106f74312097494a955e128ff5c8
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Sun Oct 8 11:51:28 2023 +1000
+
+    update run.py and user manual
+
+commit 54dafc2032752be9449a925bf35371c39eb1ede3
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Sun Oct 8 10:54:11 2023 +1000
+
+    Update run.py
+
+commit 54891f23f2f0fcb0b8a144b14607a6abd4512ff3
+Author: sunwoonam <nswhelen@gmail.com>
+Date:   Sat Oct 7 22:46:56 2023 +1000
+
+    Project plan and executive summary
+
+commit 3a9f2fa4f1d631b5dd12ccdb6563033f7f600297
+Author: Ze Zeng <zengze@ZeZeng.modem>
+Date:   Wed Oct 4 23:30:06 2023 +1000
+
+    Update new Software Testing Report.docx
+
+commit 14494d15b4defb32c46c23f268565c1045d802a3
+Author: Ze Zeng <zengze@ZeZeng.modem>
+Date:   Wed Oct 4 23:28:16 2023 +1000
+
+    Done Testing results in report.html , test_run_pytest.py for testing file
+
+commit 63ae9a4be04af939acddcfbf8077ecec3062c85d
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Thu Sep 28 18:03:32 2023 +1000
+
+    User Manual and Modification Explanation
+
+commit 25c5e27b77e5cdeaff3d2fa7078f182e14f5860b
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Thu Sep 28 17:12:33 2023 +1000
+
+    ASM PartB Code
+
+commit 5e829083d89468e6719dabac0c4017aed414d09f
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Sat Sep 2 14:52:26 2023 +1000
+
+    update format
+
+commit a9ad266e65b9b599b048c20cc04ee99a8658c98b
+Author: Ze Zeng <zengze@ZeZeng.modem>
+Date:   Sat Sep 2 14:28:38 2023 +1000
+
+    zip asm_partA
+
+commit cab1ab58f44794012f90c6634a36f97fc01fa820
+Author: Ze Zeng <zengze@ZeZeng.modem>
+Date:   Sat Sep 2 14:24:42 2023 +1000
+
+    formate docments for partA
+
+commit 1e10017f4cbea1a1207404be486b12b13f9e34a8
+Author: sunwoonam <nswhelen@gmail.com>
+Date:   Sat Sep 2 12:30:31 2023 +1000
+
+    update git log
+
+commit 5bd479b7916867b6e64cc328128b5abebd369f62
+Author: sunwoonam <nswhelen@gmail.com>
+Date:   Sat Sep 2 12:27:33 2023 +1000
+
+    Update Gantt chart and Project Plan
+
+commit d37ec0ddb140d8d424367e8fcb118d11f00b9904
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Sat Sep 2 10:50:12 2023 +1000
+
+    update format
+
+commit c419e2c5cfe46f978ccd3a6938fcfaf35d72938e
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Sat Sep 2 10:45:27 2023 +1000
+
+    update git log
+
+commit 454ace59845ecf2a5ec2974f49eb8c7380cab41a
+Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
+Date:   Sat Sep 2 10:42:29 2023 +1000
+
+    Add files via upload
+
+commit 9e07595098c41c9738e03bd4d1cc52feabfa9407
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Sat Sep 2 10:33:52 2023 +1000
+
+    add git log
+
+commit c6ed14d59f5846cb39b7628ec01fd756ce0529a5
+Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
+Date:   Thu Aug 31 23:29:41 2023 +1000
+
+    Add files via upload
+
+commit 3aa72cf0ef8acc8fa4ad30f68e7a451724a1afdb
+Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
+Date:   Thu Aug 31 23:29:31 2023 +1000
+
+    Delete Gantt chart.xlsx
+
+commit 787a80b88bd8e1862f56a7e9fdd40bb1bd61aec4
+Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
+Date:   Thu Aug 31 23:28:14 2023 +1000
+
+    Delete Project Plan.docx
+
+commit 07dba90ea52e8cfcc8439618ac6541747653f5c7
+Author: Ze Zeng <zengze@ZeZeng.modem>
+Date:   Thu Aug 31 10:42:35 2023 +1000
+
+    v1 Intro
+
+commit de435fef147e810abdaf2d0bf1ac54b4940ed319
+Author: Ze Zeng <zengze@ZeZeng.modem>
+Date:   Thu Aug 31 09:40:00 2023 +1000
+
+    Add introduction
+
+commit f68601e756b08853ba06def9fdbe3a123f7986a0
+Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
+Date:   Thu Aug 31 08:33:08 2023 +1000
+
+    WBS and Gantt
+
+commit 3e088d2176bdc02427723d6e7f12ac18a1223e0d
+Author: nswhelen <127074703+nswhelen@users.noreply.github.com>
+Date:   Thu Aug 31 08:21:37 2023 +1000
+
+    Delete Project Plan.docx
+
+commit cc42982f68e464cc54ba578ec61e8dd0e384c86c
+Author: Ze Zeng <zengze@ZeZeng.modem>
+Date:   Wed Aug 30 22:25:12 2023 +1000
+
+    Add Use case diagram
+
+commit 0b7d89e761708e827a5bd35c0357c070b59143c4
+Author: Ze Zeng <zengze@ZeZeng.modem>
+Date:   Wed Aug 30 22:23:10 2023 +1000
+
+    Add use case diagram
+
+commit 5009827a700c660cc97db44790c8c4509c84300d
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Sun Aug 27 19:29:24 2023 +1000
+
+    flow chart and UI wireframe
+
+commit cbd10fddcb8757bc62ee695cff6489b3e7be2290
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Sun Aug 27 19:27:45 2023 +1000
+
+    Software design and system components, User interface design finished
+
+commit 4e1ca851a01f1a6dbcc2ec8feb94b26448ad16ad
+Author: Ze Zeng <zengze@ZeZeng.modem>
+Date:   Sat Aug 26 21:05:00 2023 +1000
+
+    Added Software Design Document 1.0,2.0
+
+commit 1bf4ef9be49997bb75a94c4766cdeb95c49bb168
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Tue Aug 22 13:56:02 2023 +1000
+
+    marking guide
+
+commit 6a44e526bd5f09b665b2ea78d0e111f4d75624a5
+Author: WalnutE52 <eason1252@hotmail.com>
+Date:   Tue Aug 1 10:21:55 2023 +1000
+
+    Assignment Document
+
+commit 4d95ee7ddc411c7c8b26e344bc6bfc3b2f06f055
+Author: WalnutE52 <109060562+WalnutE52@users.noreply.github.com>
+Date:   Tue Aug 1 10:02:12 2023 +1000
+
+    Initial commit
